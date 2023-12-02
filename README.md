@@ -45,7 +45,7 @@ Project Details -
 ### 12. **Best Practices:**
    - Demonstrated adherence to best practices in data cleaning and manipulation.
 
-### Example Bullet Points for Resume:
+### Bullet Points:
 
 - Implemented SQL queries for standardizing date formats and ensuring data consistency.
 - Enhanced data quality by populating missing property addresses through strategic merging.
